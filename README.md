@@ -10,9 +10,7 @@ Project root papkasida `.env` nomli file yarating va ichiga quyidagini yozing:
 BOT_TOKEN=
 ```
 
-## Talab qilinadigan kutubxonalar
-
-Agar projectda `requirements.txt` bo‘lsa quyidagi buyruq bilan o‘rnating:
+## Kutubxonalarni o'rnatish
 
 ```
 pip install -r requirements.txt
