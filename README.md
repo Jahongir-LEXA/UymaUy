@@ -3,7 +3,7 @@
 Bu bot ishlashi uchun `.env` file kerak. Uni project ichida yaratishingiz kerak.
 
 ## .env file yaratish
-
+ 
 Project root papkasida `.env` nomli file yarating va ichiga quyidagini yozing:
 
 ```
